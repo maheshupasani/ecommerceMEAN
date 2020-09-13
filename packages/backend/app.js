@@ -3,7 +3,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import path from 'path';
-import cookieParser from cookie-parser;
+import cookieParser from 'cookie-parser';
 
 
 // var createError = require('http-errors');
